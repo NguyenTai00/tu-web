@@ -189,8 +189,8 @@ a {
 }
 
 /* ==== KHỐI ICON DỊCH VỤ ==== */
-.features {
-    padding: 24px 0;
+.features-header {
+    padding-top: 24px 0;
     background: var(--muted);
 }
 
